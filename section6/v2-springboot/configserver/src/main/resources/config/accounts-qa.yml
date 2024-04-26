@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to KimBank accounts related QA APIs "
+  contactDetails:
+    name: "John Doe - QA Lead"
+    email: "doe@kimbank.com"
+  onCallSupport:
+    - (254) 792-504696
+    - (254) 792-504696

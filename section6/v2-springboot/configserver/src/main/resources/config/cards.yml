@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to KimBank accounts related local APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@kimbank.com"
+  onCallSupport:
+    - (254) 792-504696
+    - (254) 792-504696
