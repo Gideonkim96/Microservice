@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to KimBank accounts related pro APIs "
+  contactDetails:
+    name: "John Doe - Product Lead"
+    email: "johndoe@kimbank.com"
+  onCallSupport:
+    - (254) 792-504696
+    - (254) 792-504696

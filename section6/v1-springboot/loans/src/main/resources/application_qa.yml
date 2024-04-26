@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to KimBank loans related QA APIs "
+  contactDetails:
+    name: "John Doe - QA Lead"
+    email: "doe@kimbank.com"
+  onCallSupport:
+    - (254) 792-504696
+    - (254) 792-504696
