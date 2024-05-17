@@ -1,0 +1,27 @@
+dependencies:
+- name: kimbank-common
+  repository: file://../../kimbank-common
+  version: 0.1.0
+- name: configserver
+  repository: file://../../kimbank-services/configserver
+  version: 0.1.0
+- name: eurekaserver
+  repository: file://../../kimbank-services/eurekaserver
+  version: 0.1.0
+- name: accounts
+  repository: file://../../kimbank-services/accounts
+  version: 0.1.0
+- name: cards
+  repository: file://../../kimbank-services/cards
+  version: 0.1.0
+- name: loans
+  repository: file://../../kimbank-services/loans
+  version: 0.1.0
+- name: gatewayserver
+  repository: file://../../kimbank-services/gatewayserver
+  version: 0.1.0
+- name: message
+  repository: file://../../kimbank-services/message
+  version: 0.1.0
+digest: sha256:24f712ac5b20b4ee16b5001d40ba6ba7f97d1170137846e6e78b04499b9278a6
+generated: "2024-05-16T16:55:57.999536+03:00"
