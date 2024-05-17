@@ -1,0 +1,6 @@
+dependencies:
+- name: kimbank-common
+  repository: file://../../kimbank-common
+  version: 0.1.0
+digest: sha256:c44a911a6b3c18558296d444c01276204ccb6019469c63a35f1babbc238a4707
+generated: "2024-05-16T16:23:03.678707+03:00"
